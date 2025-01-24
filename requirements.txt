@@ -6,7 +6,6 @@ plotly
 streamlit 
 xgboost 
 tensorflow
-math
 ta
 mysql.connector
 statsmodels
