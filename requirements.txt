@@ -12,3 +12,5 @@ statsmodels
 pmdarima 
 datetime 
 scikit-learn
+matplot
+re
