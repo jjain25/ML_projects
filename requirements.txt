@@ -9,7 +9,7 @@ tensorflow
 ta
 mysql.connector
 statsmodels
-pmdarima 
+
 datetime 
 scikit-learn
 matplot
