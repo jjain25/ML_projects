@@ -1,4 +1,4 @@
-tkiner
+tkinter
 numpy>=1.21.0
 pandas>=1.3.0
 yfinance>=0.2.0
