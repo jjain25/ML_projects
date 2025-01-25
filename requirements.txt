@@ -9,6 +9,6 @@ yfinance
 mysql-connector-python
 matplotlib
 statsmodels
-pmdarima
+scipy
 ta
 datetime
